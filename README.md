@@ -1,6 +1,6 @@
 # -STUDY-OF-DISPLACEMENT-TRANSDUCER---LVDT
-### Name:Ahamed Naeem M
-### Reg no:212223210002
+### Name: Kalaiselvan J
+### Reg no: 212223080022
 
 AIM
 To study the operation of LVDT- Linear Variable Differential Transformer
