@@ -1,6 +1,6 @@
 # -STUDY-OF-DISPLACEMENT-TRANSDUCER---LVDT
-### Name: Mohamed Fahad S
-### Reg no: 212224080037
+### Name: Jawahar A
+### Reg no: 212224080020
 
 # Aim:
 To study the operation of LVDT- Linear Variable Differential Transformer
